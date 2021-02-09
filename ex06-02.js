@@ -1,7 +1,1 @@
-function ThreeSecChange() {  
-  setInterval("imgchange12()",2000); } 
-  
-
-function imgchange12() {
-  document.getElementById('logo2').src = 'game2.jpg';
-}
+function imgchange1() {document.getElementById('logo').src= './image/game2.jpg';}
