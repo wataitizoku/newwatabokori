@@ -1,8 +1,9 @@
-h1 { color: yellow; }
+h1 { color: rgb(43, 43, 182); }
 
 /* h1 { color:F0A050; } */
 th, td { border: dashed thick black; }
 th.important { color: rgb(233, 105, 105); }
+p.sample0 {border: double 10px #07e78ae0;}
 p.sample1{border: double 10px #a4a4f7;}
 p.sample2{border: inset 10px #ff0000;}
 p.sample3{margin: 30px 30px;padding: 10px;border:medium solid #6b4602;}
